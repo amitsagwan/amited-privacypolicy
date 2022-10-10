@@ -19,15 +19,6 @@ This Services does not uses these “cookies” explicitly. However, the app may
 ### Location Information  
 Some of the services may use location information transmitted from users' mobile phones. We only use this information within the scope necessary for the designated service.
 
-### Collects
-There is screen named: "Add Site", for capturing telecom site/tower/place details and it also captures the location of a telecom site/tower/place where actual physical site located.
-
-### Uses
-This site's location is stored in to database which will further used to analyze sites in future.
-
-### Shares users data
-This collected sites locations will only be shared to other Telco Datahub app users only.
-
 ### Device Information  
 We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.  
 
